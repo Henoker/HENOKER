@@ -1,7 +1,7 @@
 # Hi there, I'm Henock 👋 
 
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/views/UCj7FaUjkPqXD7YTTzbILuNA?style=social)]
-![Twitter Follow](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FHenocktsion)]
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/views/UCj7FaUjkPqXD7YTTzbILuNA?style=social)
+![Twitter Follow](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FHenocktsion)
 
 
 
@@ -16,11 +16,11 @@
 
 
 ### Connect with me:
-![website](./img/youtube-light.svg)(https://www.youtube.com/channel/UCj7FaUjkPqXD7YTTzbILuNA)
+<!-- ![website](./img/youtube-light.svg)(https://www.youtube.com/channel/UCj7FaUjkPqXD7YTTzbILuNA)
 &nbsp;&nbsp;
 ![website](./img/twitter-light.svg)(https://twitter.com/Henocktsion)
 &nbsp;&nbsp;
-![website](./img/linkedin-light.svg)(https://www.linkedin.com/in/henock-beyene-tesfatsion-921ba54b/)
+![website](./img/linkedin-light.svg)(https://www.linkedin.com/in/henock-beyene-tesfatsion-921ba54b/) -->
 
 ### Languages and Tools:
 
