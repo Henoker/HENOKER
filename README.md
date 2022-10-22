@@ -16,11 +16,14 @@
 
 
 ### Connect with me:
-<!-- ![website](./img/youtube-light.svg)(https://www.youtube.com/channel/UCj7FaUjkPqXD7YTTzbILuNA)
+<a href="https://twitter.com/Henocktsion">
+  <img height="50" src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg"/>
+</a>
 &nbsp;&nbsp;
-![website](./img/twitter-light.svg)(https://twitter.com/Henocktsion)
-&nbsp;&nbsp;
-![website](./img/linkedin-light.svg)(https://www.linkedin.com/in/henock-beyene-tesfatsion-921ba54b/) -->
+<a href="https://www.linkedin.com/in/henock-beyene-tesfatsion-921ba54b/">
+  <img height="50" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg"/>
+</a>
+
 
 ### Languages and Tools:
 
