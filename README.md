@@ -25,7 +25,7 @@
 </a>
 
 ### Link to my website
-⚡[My website](https://henoker-website.vercel.app/)
+⚡[Henoker](https://henoker-website.vercel.app/)
 
 ### Languages and Tools:
 
