@@ -2,7 +2,7 @@
 
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/views/UCj7FaUjkPqXD7YTTzbILuNA?style=social)
 ![Twitter Follow](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FHenocktsion)
-![my website] ([https](https://henoker-website.vercel.app/)
+[My website](https://henoker-website.vercel.app/)
 
 
 
