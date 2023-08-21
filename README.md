@@ -8,7 +8,7 @@
 
 ## I'm a Full-stack Software Developer, and Teacher!!
 
-- 🔭 I am currently developing an enterprise level Project management system!
+- 🔭 I am currently developing a bank credit rating system for corporate customers!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate on open source projects
 - 🥅 My Goals: To design scalable systems, solving complex problems, and writing elegant and efficient code.
